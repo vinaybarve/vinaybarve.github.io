@@ -14252,13 +14252,17 @@ div#featured-project-carousel {
     color: var(--color-subtitle);
     letter-spacing: 1px;
     display: block;
-    line-height: 14px;
+    line-height: 4px;
     margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 15px;
 }
 
 @media only screen and (max-width: 575px) {
     .section-title span.subtitle {
         text-align: center;
+        
     }
 }
 
@@ -14267,6 +14271,7 @@ div#featured-project-carousel {
         line-height: 24px;
         letter-spacing: 1px;
         text-align: center;
+        
     }
 }
 
@@ -17886,10 +17891,11 @@ div#featured-project-carousel {
     color: var(--color-primary);
     font-weight: 500;
     font-family: var(--font-primary);
-    font-size: 12px;
+    font-size: 18px;
     letter-spacing: 1px;
     text-transform: uppercase;
     display: block;
+    font-weight: bold;
 }
 
 .rn-portfolio .inner .content .category-info .meta span,
