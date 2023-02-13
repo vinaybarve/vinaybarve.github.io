@@ -12246,6 +12246,9 @@ figcaption {
     font-size: 14px;
     font-family: var(--font-secondary);
     font-weight: 500;
+    margin-top:20px;
+     height: 80px ;
+  
 }
 
 .section-title h2.title {
@@ -15442,12 +15445,15 @@ div#featured-project-carousel {
     align-items: center;
     transition: 0.3s;
     justify-content: center;
+   
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .tab-navigation-button .nav-item .nav-link {
         height: auto;
         padding: 15px 20px;
+        
+        
     }
 }
 
@@ -15455,6 +15461,7 @@ div#featured-project-carousel {
     .tab-navigation-button .nav-item .nav-link {
         height: auto;
         padding: 15px 20px;
+        
     }
 }
 
@@ -15462,6 +15469,7 @@ div#featured-project-carousel {
     .tab-navigation-button .nav-item .nav-link {
         height: auto;
         padding: 15px 20px;
+        
     }
 }
 
@@ -15886,6 +15894,11 @@ div#featured-project-carousel {
     margin: 0;
     padding: 0;
     border: 0;
+  
+}
+
+ .flex-column {
+    padding: 50px ;
 }
 
 @media only screen and (max-width: 479px) {
