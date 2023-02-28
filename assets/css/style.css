@@ -16,6 +16,7 @@ background-color: black;
 .calendar{
     background-color: white !important;
     margin-bottom: 10px !important;
+   
     
 }
 
@@ -24,6 +25,7 @@ background-color: black;
   
     width: 99% !important;
     font-size: 10px;
+   
 
     }
     .contrib-number{
@@ -39,7 +41,7 @@ background-color: black;
     }
 }
 
-@media screen and (min-device-width: 270px) and (max-device-width: 768px) {
+@media screen and (min-device-width: 270px) and (max-device-width: 800px) {
     .resp .calendar{
    
     width: 99% !important;
@@ -20593,6 +20595,5 @@ height:40%;
 margin: auto;
 margin-bottom: 28px;
 }
- 
 
 /*# sourceMappingURL=../maps/style.css.map */
