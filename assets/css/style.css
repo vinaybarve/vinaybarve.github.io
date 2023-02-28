@@ -20587,6 +20587,12 @@ body.white-version {
 .white-version .slider-style-6 .cd-headline span {
     color: var(--color-white) !important;
 }
+.netlify{
+width: 20%;
+height:40%;
+margin: auto;
+margin-bottom: 28px;
+}
  
 
 /*# sourceMappingURL=../maps/style.css.map */
