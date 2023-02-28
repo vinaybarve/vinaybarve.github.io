@@ -4,6 +4,8 @@
 
 .gitstats{
     display:flex; gap: 2% ; justify-content: center; 
+    width: 90%;
+    margin: auto;
 }
 .resp {
     display: flex ;
